@@ -1,0 +1,7 @@
+Ashlyn O'Hara
+Chase Davis
+Advanced Data
+23 September 2019
+
+
+Politico's "secondlunch" Github repository contains code for "shareable social media cards." The example they provide is for quotecards, which are created with one of the code tools in the repo called "Quotable. The idea is that the code can be customized with an individual news outlets' branding. The repo contains a set of development commands, which I am unfamiliar with in addition to the platform via which they say to publish it, AWS. The repo also says the files are JSON, which I am unfamiliar with. The tools in the repo appear to be a base code for other outlets to build their quotecards on, which is altruistic to say the least. 
