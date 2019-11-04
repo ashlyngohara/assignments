@@ -11,4 +11,13 @@ br = mechanize.Browser()
 br.open(url)
 html = br.response().read()
 
+#STEP 3: Make soup!
+
 soup = BeautifulSoup(html, "html.parser")
+
+#Step 4: Dig through the html
+
+main_table = soup.find('tbody', {'id': 'accidentOutput'})
+
+print(main_table)
+#Returns "none"
